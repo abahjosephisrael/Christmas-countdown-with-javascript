@@ -1,0 +1,18 @@
+body{
+    background: tomato;
+    color: antiquewhite;
+}
+.Container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);    
+    border: 8px solid white;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 0 5px 5px;
+}
+.Details{
+    font-size: 80px;
+    color: lightyellow;
+}
